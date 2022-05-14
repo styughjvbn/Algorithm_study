@@ -1,5 +1,4 @@
 import sys
-from operator import itemgetter
 
 n = int(sys.stdin.readline().strip())
 
@@ -10,5 +9,5 @@ for i in range(n):
 arr=list(set(arr))
 arr.sort()
 arr.sort(key=len)
-for i in range(len(arr)):
-    print(arr[i])
+for i in arr:
+    print(i)

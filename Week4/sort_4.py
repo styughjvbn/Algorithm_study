@@ -10,7 +10,6 @@ for i in range(n):
 
 arr.sort()
 mean=statistics.mean(arr)
-
 median=statistics.median(arr)
 mode=statistics.multimode(arr)
 if(len(mode)>1):
