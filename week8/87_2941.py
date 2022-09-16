@@ -66,3 +66,10 @@ elif word[-1]=='j':
         print(count+1)
 else:
     print(count+1)
+
+# replace 함수를 활용
+# croatia = ["c=","c-","dz=","d-","lj","nj","s=","z="]
+# string = input()
+# for current in croatia:
+#     string = string.replace(current,'#')
+# print(len(string))
