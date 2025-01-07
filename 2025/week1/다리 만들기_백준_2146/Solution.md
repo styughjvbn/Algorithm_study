@@ -1,4 +1,4 @@
-# 개미굴
+# 다리 만들기
 
 ## 문제 설명
 - 문제 링크: [링크](https://www.acmicpc.net/problem/2146)
