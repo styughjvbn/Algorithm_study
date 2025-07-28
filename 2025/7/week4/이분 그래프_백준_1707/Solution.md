@@ -1,7 +1,7 @@
-# 연결 요소의 개수
+# 이분 그래프
 
 ## 문제 설명
-- 문제 링크: [링크](https://www.acmicpc.net/problem/1704)
+- 문제 링크: [링크](https://www.acmicpc.net/problem/1707)
 - 핵심 사항:
   - "각 집합에 속한 정점끼리는 서로 인접하지 않도록 분할할 수 있을 때, 그러한 그래프를 특별히 이분 그래프 (Bipartite Graph) 라 부른다."
 ---
